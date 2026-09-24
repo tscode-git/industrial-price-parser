@@ -82,7 +82,7 @@ industrial-price-parser/
 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/username/industrial-price-parser.git
+git clone https://github.com/tscode-git/industrial-price-parser.git
 ```
 
 Перейти в папку проекта:
